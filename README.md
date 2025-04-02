@@ -24,5 +24,3 @@ This project is a collaboration between **Bank Muamalat** and **Rakamin Academy*
 - Strategic recommendations based on data analysis to increase engagement and user retention.  
 
 ## 📊 **Dashboard Visualization**
-Visualization Dashboard for this analysis can be accessed at [Digital User Churn Dashboard](https://lookerstudio.google.com/s/vNU6pdJfL_Q). 
-![Preview Dashboard](image.png)
